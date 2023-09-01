@@ -966,7 +966,7 @@ ggplot(data = activity_combined) +
 The rest of the analysis and data visualizations are shown in the links
 below:
 
-[Kaggle dashboard
+[Tableau dashboard
 visualizations](https://public.tableau.com/app/profile/molly.taing/viz/GoogleCapstoneBellabeat/Story1?publish=yes)
 
 [Presentation](https://docs.google.com/presentation/d/1D2DilEagkE-Snej6h521bZH5IjyfknTACcAIsQx-Jlw/edit?usp=sharing)
